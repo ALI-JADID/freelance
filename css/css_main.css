@@ -1,0 +1,16 @@
+body{margin: 0;padding: 0;
+}
+a{color: #FFFFFF;}
+.nav-item:hover{
+    background-color: #0c717d;
+    border-radius: 10px;
+}
+a{color: #FFFFFF;}
+a:hover{color: #FFFFFF;text-decoration: none}
+.nav-link:hover{
+    color: #ffffff !important;
+}
+.card-body{
+    padding: 100px;
+}
+
